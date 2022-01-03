@@ -1,1 +1,1 @@
-# PapelPedro
+# pro-c25-template
